@@ -58,8 +58,8 @@ export class Branding {
   static LoginBackground = LoginBackground;
   static MenuLogo = MenuLogo;
   static LoginBoxBackground = LoginBoxBackground;
-  static AppTitle = 'Grafana';
-  static LoginTitle = 'Welcome to Grafana';
+  static AppTitle = 'Promethean Energy';
+  static LoginTitle = 'Welcome to Promethean Energy Dashboard';
   static GetLoginSubTitle = (): null | string => {
     return null;
   };

@@ -111,7 +111,7 @@ export class GrafanaBootConfig implements GrafanaConfig {
 
     const defaults = {
       datasources: {},
-      windowTitlePrefix: 'Grafana - ',
+      windowTitlePrefix: 'Promethean Energy - ',
       panels: {},
       newPanelTitle: 'Panel Title',
       playlist_timespan: '1m',
